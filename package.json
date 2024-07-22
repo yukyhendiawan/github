@@ -12,7 +12,7 @@
 	"homepage": "https://github.com/Codeinwp/neve",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Codeinwp/neve.git"
+		"url": "git+https://github.com/yukyhendiawan/github"
 	},
 	"theme": {
 		"textdomain": "neve"
